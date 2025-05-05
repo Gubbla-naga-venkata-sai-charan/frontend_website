@@ -1,0 +1,26 @@
+[
+    {
+        "id": "r1",
+        "name": "test",
+        "address": "teststreet 5,t",
+        "cuisine": "italian",
+        "website": "https://mytest.com",
+        "description": "it's super!"
+    },
+    {
+        "id": "r2",
+        "name": "test2",
+        "address": "teststreet 5,d",
+        "cuisine": "italian",
+        "website": "https://mytest1.com",
+        "description": "nice!"
+    },
+    {
+        "name": "test5",
+        "address": "dfghjkl",
+        "cuisine": "italian",
+        "website": "https://mytest5.com",
+        "description": "its excellent!",
+        "id": "7851d625-1fd1-4753-a832-68f701119dfe"
+    }
+]
